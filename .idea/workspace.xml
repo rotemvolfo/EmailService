@@ -12,8 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="78c8dd27-ab0d-4c65-af58-dbd5dddeb84b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SendMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SendMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/service/providers/Mailgun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/service/providers/Mailgun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -123,7 +122,9 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="374">
+                <caret line="22" column="163" lean-forward="true" selection-start-line="22" selection-start-column="163" selection-end-line="22" selection-end-column="163" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -167,6 +168,7 @@
         <option value="$PROJECT_DIR$/src/MessageValidation.java" />
         <option value="$PROJECT_DIR$/src/factory/service/providers/Mailgun.java" />
         <option value="$PROJECT_DIR$/src/SendMessage.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -335,12 +337,12 @@
       <updated>1581451336993</updated>
       <workItem from="1581451344479" duration="44156000" />
       <workItem from="1581639575705" duration="32871000" />
-      <workItem from="1581723913716" duration="3084000" />
+      <workItem from="1581723913716" duration="4411000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80111000" />
+    <option name="totallyTimeSpent" value="81438000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -355,7 +357,7 @@
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1673774" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1673774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -371,7 +373,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32827735" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3285968" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32827735" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32827735" />
@@ -632,7 +634,9 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="374">
+            <caret line="22" column="163" lean-forward="true" selection-start-line="22" selection-start-column="163" selection-end-line="22" selection-end-column="163" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
