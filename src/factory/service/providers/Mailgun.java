@@ -19,7 +19,6 @@ public class Mailgun implements ISendEmail {
         HttpClient client = HttpClient.newBuilder().build(); //creating HttpClient to send requests
         try {
             HttpRequest request = HttpRequest.newBuilder(URI.create("https://api.mailgun.net/v3/" + this._domain + "/messages"))
-                    .header("Content-Type", "application/json")
                     .header("Authorization", basicAuth(apiKey))
                     .header("Content-Type", "application/x-www-form-urlencoded")
                     .POST(HttpRequest.BodyPublishers.ofString(convertJsonToQueryString(message)))

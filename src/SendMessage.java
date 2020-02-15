@@ -30,8 +30,7 @@ public class SendMessage{
     }
 
     private JSONObject readProviderFromConfigFile() throws JSONException
-    { // in the project folder/resources there is a json file named providers.json with key=provider ,key=api_key
-      // by changing the provider name to "SendGrid " it will send Email to Sendgrid server . I didnt implement the actual reading from the file
+    {
         JSONObject providerJson=new JSONObject();
         providerJson.put("name", "Mailgun");
         providerJson.put("key", "4b1e8a1ec5e12bebaf989e213901f375-52b6835e-fe1b0b10");
